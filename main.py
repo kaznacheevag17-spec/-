@@ -1,4 +1,3 @@
-#создай тут фоторедактор Easy Editor!
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
@@ -141,3 +140,5 @@ but_sharpness.clicked.connect(workimage.change_sharpness)
 window.resize(800, 500)
 window.show()
 app.exec_()
+
+# :)
